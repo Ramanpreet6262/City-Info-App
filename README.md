@@ -17,3 +17,5 @@
 - [Air Pollution API for Air Quality Index](https://www.airpollutionapi.com/api)
 - [Google Maps API for map](https://developers.google.com/maps/documentation/javascript/tutorial)
 - [Open Geocoding API for converting location to co-ordinates](https://developer.mapquest.com/documentation/open/geocoding-api/address/get/)
+
+### Live [Demo](https://ramanpreet6262.github.io/City-Info-App/)
